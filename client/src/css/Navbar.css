@@ -1,0 +1,19 @@
+.web-brand {
+  flex-basis: 20%;
+}
+
+.left-bar {
+  flex-basis: 80%;
+  align-items: center;
+  display: flex;
+}
+
+.right-bar {
+  display: flex !important;
+  flex-basis: 20%;
+}
+
+#login-option {
+  display: flex;
+  align-items: center;
+}
